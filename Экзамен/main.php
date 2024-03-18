@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>ФДПС</title>
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet" />
+  <!-- slick slider -->
+
+  <link rel="stylesheet" href="css/slick-theme.css" />
+  <!-- font awesome style -->
+  <link href="css/font-awesome.min.css" rel="stylesheet" />
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="main.php">
+            <svg height="512" viewBox="0 0 60 42" width="512" xmlns="http://www.w3.org/2000/svg">
+              <g id="Page-1" fill="none" fill-rule="evenodd">
+                <g id="041---Weight-Training" fill="rgb(0,0,0)" fill-rule="nonzero">
+                  <path id="Shape"
+                    d="m56 6c-.7042532.00414464-1.3946535.19607591-2 .556v-2.556c0-2.209139-1.790861-4-4-4s-4 1.790861-4 4v9h-4.336l-3.664-3.694v-4.128c.000011-.93121067-.3710707-1.82403539-1.0311294-2.48090359-.6600587-.65686819-1.5546709-1.02361943-2.4858706-1.01909641-.6164983.00374687-1.2206258.17334469-1.749.491-.491757-1.19323435-1.6002708-2.01902007-2.8843351-2.14868129s-2.5352883.45784479-3.2556649 1.52868129c-.8625293-.65561163-1.9810837-.87238122-3.0260812-.58643761-1.0449975.2859436-1.8973525 1.04201494-2.3059188 2.04543761-.5391465-.31896561-1.1535724-.4884505-1.78-.491-1.92276.00165486-3.4808973 1.56023957-3.482 3.483v7h-1.96v-9c0-2.209139-1.790861-4-4-4s-4 1.790861-4 4v2.556c-.60534654-.35992409-1.29574677-.55185536-2-.556-2.209139 0-4 1.790861-4 4v15c0 2.209139 1.790861 4 4 4 .70425323-.0041446 1.39465346-.1960759 2-.556v2.556c0 2.209139 1.790861 4 4 4s4-1.790861 4-4v-9h2.96v.63c-.0652084 1.8293296.3904702 3.6395597 1.314 5.22l1.161 2.008c.3063928.448321.4876251.97027.525 1.512v9c.001102.8997673.7302327 1.628898 1.63 1.63h12.73c.9052901-.001102 1.638898-.7347099 1.64-1.64v-9.09c.0000733-.1767456.049608-.3499435.143-.5l5.139-8.77h4.718v9c0 2.209139 1.790861 4 4 4s4-1.790861 4-4v-2.556c.6053465.3599241 1.2957468.5518554 2 .556 2.209139 0 4-1.790861 4-4v-15c0-2.209139-1.790861-4-4-4zm-21.483-2.322c.8231597.00605418 1.4863282.67682476 1.483 1.5l.0000125 2.112-.4730125-.477c-.5722794-.56717384-1.3452769-.88557261-2.151-.886h-.01c-.1226635.0038672-.2449337.01589377-.366.036v-.785c-.0000257-.40078777.160341-.78491772.4453331-1.06671612.2849921-.28179839.6709049-.43782614 1.0716669-.43328388zm-6.517-.178c0-.82842712.6715729-1.5 1.5-1.5s1.5.67157288 1.5 1.5v3.7c-1.0680159 1.64157528-1.0680159 3.7584247 0 5.4v.605c-.2259891.6338058-.8271136 1.056196-1.5 1.054-.3959195.0040002-.7770426-.1502749-1.0586991-.4285515-.2816565-.2782767-.4405212-.6575095-.4413009-1.0534485zm-5 .824c0-.82842712.6715729-1.5 1.5-1.5s1.5.67157288 1.5 1.5v8.451c-.0005508.8200766-.664924 1.4848972-1.485 1.486h-.03c-.820076-.0011028-1.4844492-.6659234-1.485-1.486zm-5 1.676c0-.82842712.6715729-1.5 1.5-1.5s1.5.67157288 1.5 1.5v8.441c0 .8284271-.6715729 1.5-1.5 1.5s-1.5-.6715729-1.5-1.5zm-13.96 21c-1.1045695 0-2-.8954305-2-2v-15c0-1.1045695.8954305-2 2-2s2 .8954305 2 2v15c0 1.1045695-.8954305 2-2 2zm8 4c0 1.1045695-.8954305 2-2 2s-2-.8954305-2-2v-27c0-1.1045695.8954305-2 2-2s2 .8954305 2 2zm2-16h2.017c.2748402 1.6894875 1.7313129 2.9323329 3.443 2.938 1.4169635-.0013033 2.6933397-.8568267 3.233-2.167.5292727.3171495 1.1339909.4863739 1.751.49h.03c.93625.0000291 1.8327835-.3782748 2.486-1.049.011.012.019.026.031.038.6565015.6508777 1.5445415 1.0145101 2.469 1.011 1.308304-.0029539 2.5120182-.7154577 3.144-1.861.1.1.211.212.307.31l1.188 1.2c-1.7938366.8654751-3.3379484 2.1731695-4.487 3.8-.07.1-.125.2-.191.3h-15.421zm20.387 14.738c-.2811454.4614065-.4289464.9916899-.427 1.532v8.73h-12v-8.63c-.0277126-.901063-.3046296-1.776813-.8-2.53l-1.17-2.018c-.732998-1.2717533-1.0901589-2.7253632-1.03-4.192v-.63h9.4c-.132.31-.265.621-.377.947-.1781118.5230137.1014864 1.0913881.6245 1.2695.5230137.1781118 1.0913882-.1014864 1.2695-.6245.2472347-.7318637.5706767-1.4357271.965-2.1.1200203-.2159191.2536221-.4240039.4-.623 1.1945315-1.7018071 2.9085267-2.9705495 4.885-3.616.3481021-.0872646.6227517-.3543699.7196756-.6999071.096924-.3455371.0012588-.7165166-.2506756-.9720929 0 0-.751-.762-2.257-2.277-.423-.433-.911-.92-1.462-1.473l-.079-.08c-.0296867-.0444575-.0631434-.0862784-.1-.125-.7457473-1.037533-.7311677-2.43920372.036-3.461.153086-.16662899.3744689-.25333727.6-.235.2743168-.00048352.5377372.10732839.733.3l7.293 7.343c.5075609.5045675.5984602 1.2931916.219 1.9zm8.028-9.738.881-1.5c.64407-1.0697251.6771268-2.3995963.087-3.5h2.577v5zm9.545 11c0 1.1045695-.8954305 2-2 2s-2-.8954305-2-2v-27c0-1.1045695.8954305-2 2-2s2 .8954305 2 2zm6-6c0 1.1045695-.8954305 2-2 2s-2-.8954305-2-2v-15c0-1.1045695.8954305-2 2-2s2 .8954305 2 2z" />
+                </g>
+              </g>
+            </svg>
+            <span>
+              ФДПС
+            </span>
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class=""> </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
+              <ul class="navbar-nav  ">
+                <li class="nav-item active">
+                  <a class="nav-link" href="main.php">Главная <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.php"> О нас</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="product.php">Тренировки</a>
+                </li>
+              </ul>
+            </div>
+            <div class="quote_btn-container">
+              <a href="profil.php">
+                <i class="fa fa-user" aria-hidden="true"></i>
+              </a>
+              <form class="form-inline">
+                <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
+                  <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+              </form>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+    <!-- slider section -->
+    <section class="slider_section ">
+      <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-8 mx-auto">
+                  <div class="detail_box">
+                    <h1>
+                      Лучшие <br />
+                      Тренировки <br />
+                      Для студетов
+                    </h1>
+                    <p>
+                    ФПДС расшифровывается как Физическая Подготовка Для Студентов, мы предоставляем комплекс тренировок для студентов по лучшим ценам в вашем городе!
+                    </p>
+                    <a href="">
+                     Посмотреть тренировки
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item ">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-8 mx-auto">
+                  <div class="detail_box">
+                    <h1>
+                      Лучшие <br />
+                      Тренера <br />
+                      России
+                    </h1>
+                    <p>
+                    С вами будут заниматья лучшие из лучших в своей сфере, помогут вам с вашими целями, наладят ваш образ питания и ваш образ жизни!
+                    </p>
+                    <a href="">
+                      Посмотреть тренировки
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel_btn-box">
+          <a class="carousel-control-prev" href="#customCarousel1" role="button" data-slide="prev">
+            <i class="fa fa-angle-left" aria-hidden="true"></i>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#customCarousel1" role="button" data-slide="next">
+            <i class="fa fa-angle-right" aria-hidden="true"></i>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </section>
+    <!-- end slider section -->
+  </div>
+
+  <!-- product section -->
+
+  <section class="product_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+         Тренировки
+        </h2>
+      </div>
+      <div class="product_container">
+        <div class="row">
+          <div class="col-sm-6 col-md-4 ">
+            <div class="box">
+              <a href="" class="p_cart">
+                <i class="fa fa-cart-plus" aria-hidden="true"></i>
+              </a>
+              <div class="img-box">
+                <img src="images/4.jpg" alt="">
+              </div>
+              <div class="detail-box">
+                <span class="p_rating">
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <a href="" class="p_name">
+                  Групповые тренировки
+                </a>
+                <h6 class="p_price">
+                  <span class="new_price">
+                    Р 2000
+                  </span>
+                  <span class="old_price">
+                    Р 3000
+                  </span>
+                </h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 ">
+            <div class="box">
+              <a href="" class="p_cart">
+                <i class="fa fa-cart-plus" aria-hidden="true"></i>
+              </a>
+              <div class="img-box">
+                <img src="images/2.jpg" alt="">
+              </div>
+              <div class="detail-box">
+                <span class="p_rating">
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <a href="" class="p_name">
+                 Персональные тренировки
+                </a>
+                <h6 class="p_price">
+                  <span class="new_price">
+                  Р 5000
+                  </span>
+                  <span class="old_price">
+                    Р 10000
+                  </span>
+                </h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 ">
+            <div class="box">
+              <a href="" class="p_cart">
+                <i class="fa fa-cart-plus" aria-hidden="true"></i>
+              </a>
+              <div class="img-box">
+                <img src="images/5.jpg" alt="">
+              </div>
+              <div class="detail-box">
+                <span class="p_rating">
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <a href="" class="p_name">
+                  Тренировка по смешенным единоборствам
+                </a>
+                <h6 class="p_price">
+                  <span class="new_price">
+                    р 5000
+                  </span>
+                  <span class="old_price">
+                  р 5000
+                  </span>
+                </h6>
+              </div>
+            </div>
+          </div>
+          
+
+
+  <!-- end product section -->
+
+  <!-- about section -->
+  
+
+  <!-- end about section -->
+
+  
+  <!-- end why us section -->
+
+
+
+  <!-- subscribe section -->
+
+  <section class="subscribe_section layout_padding">
+    <div class="container">
+      <div class="box">
+        <div class="row">
+          <div class="col-md-8 mx-auto">
+            <div class="subscribe_form ">
+              <div class="heading_container heading_center">
+                <h2>
+                  Подписаться на обновления
+                </h2>
+
+              </div>
+              <form action="">
+                <input type="email" placeholder="Введите почту">
+                <div class="btn-box">
+                  <button class="btn1">
+                    Подписаться
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end subscribe section -->
+
+
+  <!-- client section -->
+  <section class="client_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Что говорят о нас клиенты
+        </h2>
+      </div>
+      <div id="carouselExample2Indicators" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row">
+              <div class="col-md-7 mx-auto">
+                <div class="client_container">
+                  <div class="client_detail">
+                    <p>
+                      <i class="fa fa-quote-left" aria-hidden="true"></i> &nbsp;
+                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+                      alteration in The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
+                      letters, generators on the Internet tend to repeat predefined chunks as necessary &nbsp;
+                      <i class="fa fa-quote-right" aria-hidden="true"></i>
+                    </p>
+                  </div>
+                  <div class="client_box ">
+                    <div class="img-box">
+                      <img src="images/client.png " alt="">
+                    </div>
+                    <div class="name">
+                      <h5>
+                       Зиновьева Дарья
+                      </h5>
+                      <h6>
+                        <span>
+                          Клиент
+                        </span>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-md-7 mx-auto">
+                <div class="client_container">
+                  <div class="client_detail">
+                    <p>
+                      <i class="fa fa-quote-left" aria-hidden="true"></i> &nbsp;
+                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+                      alteration in The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
+                      letters, generators on the Internet tend to repeat predefined chunks as necessary &nbsp;
+                      <i class="fa fa-quote-right" aria-hidden="true"></i>
+                    </p>
+                  </div>
+                  <div class="client_box ">
+                    <div class="img-box">
+                      <img src="images/client.png " alt="">
+                    </div>
+                    <div class="name">
+                      <h5>
+                        Ксюша Российская
+                      </h5>
+                      <h6>
+                        <span>
+                          Клиент
+                        </span>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-md-7 mx-auto">
+                <div class="client_container">
+                  <div class="client_detail">
+                    <p>
+                      <i class="fa fa-quote-left" aria-hidden="true"></i> &nbsp;
+                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered
+                      alteration in The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
+                      letters, generators on the Internet tend to repeat predefined chunks as necessary &nbsp;
+                      <i class="fa fa-quote-right" aria-hidden="true"></i>
+                    </p>
+                  </div>
+                  <div class="client_box ">
+                    <div class="img-box">
+                      <img src="images/client.png " alt="">
+                    </div>
+                    <div class="name">
+                      <h5>
+                        Демакова Ирина
+                      </h5>
+                      <h6>
+                        <span>
+                          Клиент
+                        </span>
+                      </h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExample2Indicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExample2Indicators" data-slide-to="1"></li>
+          <li data-target="#carouselExample2Indicators" data-slide-to="2"></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+  <!-- end client section -->
+
+
+  <!-- info section -->
+
+  <section class="info_section layout_padding2">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-9 mx-auto">
+          <h4>
+            Контакты
+          </h4>
+          <div class="contact_items">
+            <a href="">
+              <div class="img-box">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+              </div>
+              <h6>
+                Местоположение
+              </h6>
+            </a>
+            <a href="">
+              <div class="img-box">
+                <i class="fa fa-envelope" aria-hidden="true"></i>
+              </div>
+              <h6>
+              FDPStraning@gmail.com
+              </h6>
+            </a>
+            <a href="">
+              <div class="img-box">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+              </div>
+              <h6>
+              (+79010534958)
+              </h6>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="box">
+        <div class="info_social">
+          <div>
+            <a href="">
+              <i class="fa fa-facebook" aria-hidden="true"></i>
+            </a>
+          </div>
+          <div>
+            <a href="">
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </a>
+          </div>
+          <div>
+            <a href="">
+              <i class="fa fa-linkedin" aria-hidden="true"></i>
+            </a>
+          </div>
+          <div>
+            <a href="">
+              <i class="fa fa-instagram" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end info section -->
+  <!-- footer section -->
+  <section class="footer_section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 col-md-9 mx-auto">
+          <p>
+            &copy; <span id="displayYear"></span> All Rights Reserved By
+            <a href="https://html.design/">Free Html Templates</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- footer section -->
+
+
+  <!-- jQery -->
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <!-- bootstrap js -->
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <!-- custom js -->
+  <script type="text/javascript" src="js/custom.js"></script>
+</body>
+
+</html>
